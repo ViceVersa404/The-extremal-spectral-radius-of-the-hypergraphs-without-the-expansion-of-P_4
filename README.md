@@ -4,7 +4,6 @@
 
 ## 环境要求
 - MATLAB R2020a 或更高版本
-- 需要工具箱：Statistics and Machine Learning Toolbox
 
 ## 说明
 - `main.m`：主程序
