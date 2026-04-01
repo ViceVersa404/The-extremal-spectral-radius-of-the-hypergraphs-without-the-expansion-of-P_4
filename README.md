@@ -16,8 +16,8 @@
                'H1' 表示 H_{n,k}' (n≥13 and 2|(n-1))
                'H3' 表示 H_{n,k}^{'''} (n≥13 and 2|(n-1))
                'Hs' 表示 H_{n,k}^* (n≥12 and 2|n)
-               'Hss' 表示 H_{n,k}^{**} (n≥12 and 2|n)
-               'Hsss' 表示 H_{n,k}^{***} (n≥12 and 2|n)
+               'Hss' 表示 H_{n,k}^{\**} (n≥12 and 2|n)
+               'Hsss' 表示 H_{n,k}^{\***} (n≥12 and 2|n)
 ## 运行方式
 直接在MATLAB中运行 `main.m`
 
