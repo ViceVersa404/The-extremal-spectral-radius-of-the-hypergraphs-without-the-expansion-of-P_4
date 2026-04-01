@@ -1,6 +1,6 @@
 ## 论文标题: The extremal spectral radius of the hypergraphs without the expansion of $P_4$
 
-本代码用于复现论文中的计算结果。
+本代码用于复现论文中的计算结果
 
 ## 环境要求
 - MATLAB R2020a 或更高版本
@@ -19,6 +19,6 @@
                'Hss' 表示 H_{n,k}^{**} (n≥12 and 2|n)
                'Hsss' 表示 H_{n,k}^{***} (n≥12 and 2|n)
 ## 运行方式
-直接在MATLAB中运行 `main.m`。
+直接在MATLAB中运行 `main.m`
 
 
